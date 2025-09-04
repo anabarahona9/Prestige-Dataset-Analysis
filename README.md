@@ -9,7 +9,7 @@ Observation: 102
 Variables: 6 (5 quantitative, 1 categorical)
 ## Methodology 
 
-###Libraries: 
+### Libraries: 
 R
 Library(car)
 Library(psych)
