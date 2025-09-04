@@ -1,4 +1,4 @@
-# Multiple regression analysis on the Prestige Dataset (R) 
+# Multiple linear regression analysis on the Prestige Dataset (R) 
 
 ## Introduction
 The main purpose of this project is to perform multiple regression analysis using the Prestige Dataset in R. The goal is to understand how several factors, such as income and education, influence occupational prestige. 
